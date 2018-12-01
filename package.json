@@ -1,0 +1,19 @@
+{
+  "name": "matrix",
+  "version": "1.1.0",
+  "description": "Matrix Rain effect in cli. Characters from a file can also be used.",
+  "main": "matrixRain",
+  "preferGlobal": true,
+  "bin": {
+    "matrix-rain": "matrixRain"
+  },
+  "keywords": [
+    "matrix",
+    "rain",
+    "cli",
+    "code",
+    "effect",
+    "node"
+  ]
+
+}
